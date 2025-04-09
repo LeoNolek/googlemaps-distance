@@ -4,6 +4,9 @@ venv/
 # Draft files
 test.py
 
+#environment variables
+.env
+
 # Pytest cache
 __pycache__/
 helpers/__pycache__
