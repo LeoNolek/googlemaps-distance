@@ -3,3 +3,7 @@ venv/
 
 # Draft files
 test.py
+
+# Pytest cache
+__pycache__/
+helpers/__pycache__
